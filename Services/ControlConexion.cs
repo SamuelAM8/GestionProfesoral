@@ -8,7 +8,7 @@ using System.IO; // Importa el espacio de nombres para manejar archivos y direct
 using Microsoft.AspNetCore.Hosting; // Importa el espacio de nombres para trabajar con el entorno de hospedaje de la aplicación.
 using Microsoft.Extensions.Configuration; // Importa el espacio de nombres para trabajar con la configuración de la aplicación.
 
-namespace ProyectoBackendCsharp.Services
+namespace ProyectoBackendCsharp.Services.ControlConexion
 {
     public class ControlConexion
     {
